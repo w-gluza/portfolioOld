@@ -74,7 +74,7 @@ article {
 }
 .abtIMG {
   grid-area: abtIMG;
-  background: url(/images/about.jpg);
+  background: url(/about.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -115,22 +115,22 @@ article {
   background: white;
 }
 .item2 {
-  background: url(/images/norrmadeLogo.jpg);
+  background: url(/norrmadeLogo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .item3{
-  background: url(/images/curriculumLogo.jpg);
+  background: url(/curriculumLogo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .item4{
-  background: url(/images/plearthLogo.jpg);
+  background: url(/plearthLogo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .item5 {
-  background: url(/images/petrogradLogo.jpg);
+  background: url(/petrogradLogo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
