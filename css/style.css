@@ -74,7 +74,7 @@ article {
 }
 .abtIMG {
   grid-area: abtIMG;
-  background: url(/about.jpg);
+  background: url("https://raw.githubusercontent.com/w-gluza/portfolio/master/images/about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -115,22 +115,22 @@ article {
   background: white;
 }
 .item2 {
-  background: url(/norrmadeLogo.jpg);
+  background: url("https://raw.githubusercontent.com/w-gluza/portfolio/master/images/norrmadeLogo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .item3{
-  background: url(/curriculumLogo.jpg);
+  background: url("https://raw.githubusercontent.com/w-gluza/portfolio/master/images/curriculumLogo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .item4{
-  background: url(/plearthLogo.jpg);
+  background: url("https://raw.githubusercontent.com/w-gluza/portfolio/master/images/plearthLogo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .item5 {
-  background: url(/petrogradLogo.jpg);
+  background: url("https://raw.githubusercontent.com/w-gluza/portfolio/master/images/petrogradLogo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
